@@ -1,0 +1,13 @@
+import { Text, StyleSheet } from 'react-native'; 
+
+const Title = () => { 
+    return ( 
+        <Text style={StyleSheet.title}>Calculador de IMC</Text> 
+    );
+}; 
+
+const styles = StyleSheet.create({ 
+    title: { 
+        font 
+    }
+})
